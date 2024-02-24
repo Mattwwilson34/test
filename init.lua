@@ -5,4 +5,3 @@ vim.g.loaded_netrwPlugin = 1
 
 require("matt")
 require("matt.packer")
-
